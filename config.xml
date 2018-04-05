@@ -34,6 +34,7 @@
 <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png"/>
 
 </platform>
+	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 <allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />	
 	
