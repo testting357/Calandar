@@ -34,7 +34,8 @@
 <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png"/>
 
 </platform>
-	
+<allow-intent href="http://*/*" />
+<allow-intent href="https://*/*" />	
 	
 
 </widget>
